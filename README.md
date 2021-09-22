@@ -9,7 +9,7 @@ Code for our GILE model, which is proposed in AAAI-2021 paper "Latent Independen
 
 
 ## Datasets Preparation
-Three datasets (UCIHAR, Opportunity, and UniMiB SHAR) are utilized in the experiments. Please save datasets under folder `./data`. The `data_preprocess_[dataset-name].py` can conduct data-preprocessing automatically. The pre-processed outcome can be downloaded from [HERE](https://drive.google.com/drive/folders/1S4oGTs8ChD8ezmxOrnqcboWVWHvT7CdH?usp=sharing).
+Three datasets (UCIHAR, Opportunity, and UniMiB SHAR) are utilized in the experiments. The pre-processed outcome can be downloaded from [HERE](https://drive.google.com/drive/folders/1S4oGTs8ChD8ezmxOrnqcboWVWHvT7CdH?usp=sharing). Please save datasets under folder `./data`. The `data_preprocess_[dataset-name].py` can conduct data-preprocessing automatically. 
 
 
 ## Environment Setup
