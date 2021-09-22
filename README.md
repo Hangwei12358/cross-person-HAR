@@ -28,6 +28,7 @@ conda install -c pytorch torchvision
 Specify the target domain when running the experiment. For example, 
 ```python
 python main_ucihar.py --beta_d 5.0 --beta_y 5.0 --target_domain 0 
+# the opportunity dataset is the largest dataset, which may take longer running time
 python main_oppor.py --target_domain S1
 python main_shar.py --target_domain 3
 ```
