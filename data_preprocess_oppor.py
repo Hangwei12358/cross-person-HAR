@@ -10,7 +10,7 @@ import zipfile
 import argparse
 from io import BytesIO
 from torchvision import transforms
-from utils import get_sample_weights, opp_sliding_window, opp_sliding_window_w_d
+from utils import get_sample_weights, opp_sliding_window_w_d
 from sklearn.model_selection import StratifiedShuffleSplit
 
 
